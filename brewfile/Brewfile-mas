@@ -1,0 +1,8 @@
+# Mac App Store command-line interface
+brew "mas"
+
+mas "AdGuard for Safari", id: 1440147259
+mas "Rayon", id: 1609781496
+mas "Shareful", id: 1522267256
+mas "Velja", id: 1607635845
+mas "Xcode", id: 497799835

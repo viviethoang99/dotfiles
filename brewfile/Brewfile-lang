@@ -1,0 +1,42 @@
+tap "buo/cask-upgrade"
+
+tap "cloudflare/cloudflare"
+
+tap "github/gh"
+
+tap "homebrew/bundle"
+tap "homebrew/cask"
+tap "homebrew/cask-fonts"
+tap "homebrew/cask-versions"
+tap "homebrew/core"
+tap "homebrew/services"
+
+# Next-gen compiler infrastructure
+brew "llvm"
+
+tap "adoptopenjdk/openjdk"
+
+# Dart
+tap 'dart-lang/dart'
+brew 'dart'
+
+# Dependency manager for Cocoa projects
+brew "cocoapods"
+
+# Go language
+brew "go"
+
+# Development kit for the Java programming language
+brew "openjdk"
+
+# Pack, ship and run any application as a lightweight container
+brew "docker"
+
+# Isolated development environments using Docker
+brew "docker-compose"
+
+# Create Docker hosts locally and on cloud providers
+brew "docker-machine"
+
+# Manage your Java environment
+brew "jenv"

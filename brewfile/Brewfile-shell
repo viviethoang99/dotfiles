@@ -1,0 +1,51 @@
+# cmake
+brew "cmake"
+
+# simple terminal UI for git commands
+tap "jesseduffield/lazygit"
+
+# Lightweight CLI download accelerator
+brew "axel"
+
+# Remove large files or passwords from Git history like git-filter-branch
+brew "bfg"
+
+# A command-line fuzzy finder
+brew "fzf"
+
+# Generate WireGuard profile from Cloudflare Warp account
+brew "wgcf"
+
+# Fast, highly customisable system info script
+brew "neofetch"
+
+# Font Iterm2
+cask "font-jetbrains-mono"
+cask "font-jetbrains-mono-nerd-font"
+
+# Terminal emulator as alternative to Apple's Terminal app
+cask "iterm2"
+
+# SSH client
+cask "termius"
+
+# GitHub command-line tool
+brew "gh"
+
+# Distributed revision control system
+brew "git"
+
+# Git extension for versioning large files
+brew "git-lfs"
+
+# Command-line outline and bitmap font editor/converter
+brew "fontforge"
+
+# Lightweight and flexible command-line JSON processor
+brew "jq"
+
+# UNIX shell (command interpreter)
+brew "zsh"
+
+# Programmatically correct mistyped console commands
+brew "thefuck"

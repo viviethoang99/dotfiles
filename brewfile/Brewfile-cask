@@ -1,0 +1,99 @@
+# Smooths scrolling and set mouse scroll directions independently
+cask "mos"
+
+# Music streaming service
+cask "spotify"
+
+# Remote access and connectivity software focused on security
+cask "teamviewer"
+
+# Free and open-source hosted hypervisor for x86 virtualization
+cask "virtualbox"
+
+# Multimedia player
+cask "vlc"
+
+# Native desktop app for Messenger (formerly Facebook Messenger)
+cask "messenger"
+
+# Web browser
+cask "microsoft-edge"
+cask "microsoft-auto-update"
+
+# Utility to open, create and modify archive files
+cask "maczip"
+
+# QuickLook plugin for source code with syntax highlighting.
+cask "qlcolorcode"
+
+# Display image info and preview unsupported formats in QuickLook
+cask "qlimagesize"
+
+# QuickLook generator for Markdown files
+cask "qlmarkdown"
+
+# QuickLook plugin for plaintext files without an extension
+cask "qlstephen"
+
+# Thumbnails, static previews, cover art and metadata for video files
+cask "qlvideo"
+
+# QuickLook plugin for JSON files
+cask "quicklook-json"
+
+# Tool to reverse the direction of scrolling
+cask "scroll-reverser"
+
+# Messaging app with a focus on speed and security
+cask "telegram"
+
+# Metadata cleaner
+cask "exifcleaner"
+
+# Voice and text chat software
+cask "discord"
+
+# UI toolkit for building applications for mobile, web and desktop
+cask "flutter"
+
+# Golang IDE
+cask "goland"
+
+# Clipboard manager
+cask "maccy"
+
+# Allows connection to a computer remotely
+cask "anydesk"
+
+# Pack, ship and run any application as a lightweight container
+cask "docker"
+
+# Transfer files from and to an Android smartphone
+cask "android-file-transfer"
+
+# Android SDK component
+cask "android-platform-tools"
+
+# Open-source code editor
+cask "visual-studio-code"
+
+# WebP Quick Look
+cask "webpquicklook"
+
+# Distribution of the Python and R programming languages for scientific computing
+cask "android-sdk"
+
+# Tools for building Android applications
+cask "android-studio"
+
+# AdoptOpenJDK OpenJDK (Java) Development Kit
+cask "adoptopenjdk11"
+cask "adoptopenjdk14"
+cask "adoptopenjdk8"
+
+# Android USB tethering driver
+cask "horndis"
+
+# the macOS file archiver
+cask "keka"
+cask "kekaexternalhelper"

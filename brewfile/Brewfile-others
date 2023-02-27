@@ -1,0 +1,50 @@
+# protocol buffers (Google's data interchange format)
+brew "protobuf"
+
+# Simple terminal UI for git commands
+brew "lazygit"
+
+# Display directories as trees (with optional color/HTML output)
+brew "tree"
+
+# Internet file retriever
+brew "wget"
+
+# Free (GNU) replacement for the Pico text editor
+brew "nano"
+
+# Simple, fast and user-friendly alternative to find
+brew "fd"
+
+# Lookup tool for domain names and other internet resources
+brew "whois"
+
+# Implementation of the DNS protocols
+brew "bind"
+
+# Get a file from an HTTP, HTTPS or FTP server
+brew "curl"
+
+# View disk space usage and delete unwanted data, fast
+brew "dua-cli"
+
+# GNU awk utility
+brew "gawk"
+
+# Graph visualization software from AT&T and Bell Labs
+brew "graphviz"
+
+# Graphical user interface for smartctl
+brew "gsmartcontrol"
+
+# High-performance authoritative-only DNS server
+brew "knot"
+
+# NCurses Disk Usage
+brew "ncdu"
+
+# Pyenv plugin to manage virtualenv
+brew "pyenv-virtualenv"
+
+# User interface to the TELNET protocol
+brew "telnet"
