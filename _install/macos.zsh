@@ -100,20 +100,20 @@ setup_omz() {
 
 brew_bundle() {
   printf "\n--- Installing shell packages ---\n"
-  brew bundle --file="~/dotfiles/brewfiles/Brewfile-shell"
+  brew bundle --file="~/dotfiles/brewfile/Brewfile-shell"
 
   printf "\n--- Installing languages from homebrew ---\n"
-  brew bundle --file="~/dotfiles/brewfiles/Brewfile-lang"
+  brew bundle --file="~/dotfiles/brewfile/Brewfile-lang"
 
   printf "\n--- Installing others packages ---\n"
-  brew bundle --file="~/dotfiles/brewfiles/Brewfile-others"
+  brew bundle --file="~/dotfiles/brewfile/Brewfile-others"
 
   printf "\n--- Installing apps by Homebrew-Cask.. ---\n"
-  brew bundle --file="~/dotfiles/brewfiles/Brewfile-cask"
+  brew bundle --file="~/dotfiles/brewfile/Brewfile-cask"
 
   printf "\n--- Installing apps by mas.. ---\n"
   brew install mas
-  brew bundle --file="~/dotfiles/brewfiles/Brewfile-mas"
+  brew bundle --file="~/dotfiles/brewfile/Brewfile-mas"
 }
 
 install-goenv() {
